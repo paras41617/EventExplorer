@@ -1,0 +1,4 @@
+DEBUG=True
+SECRET_KEY=my_secret_key
+GEOCODINGAPIKEY=my_geocoding_api_key
+TICKETMASTERAPIKEY=my_ticketmaster_api_key
